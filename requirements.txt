@@ -1,8 +1,0 @@
-# XAUUSDT.P Perpetual Bot — Dependencies
-python-telegram-bot[job-queue]>=21.0
-mplfinance>=0.12.10
-matplotlib>=3.7.0
-pandas>=2.0.0
-numpy>=1.24.0
-requests>=2.31.0
-yfinance>=0.2.40
